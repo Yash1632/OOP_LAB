@@ -1,5 +1,3 @@
-package LAB_1;
-
 public class Area_TSC {
     public static void main(String[] args){
         int l = Integer.parseInt(args[0]);
