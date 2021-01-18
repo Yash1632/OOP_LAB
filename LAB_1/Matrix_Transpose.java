@@ -1,3 +1,5 @@
+package LAB_1;
+
 public class Matrix_Transpose {
     public static void main(String[] args){
         if(args.length<1){

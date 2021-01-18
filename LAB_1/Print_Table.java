@@ -1,3 +1,5 @@
+package LAB_1;
+
 public class Print_Table
 {
     public static void main(String[] args){

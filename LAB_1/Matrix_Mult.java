@@ -1,4 +1,6 @@
-public class Matrix_Mult{
+package LAB_1;
+
+public class Matrix_Mult {
 
     public static void main(String[] args){
         if(args.length<1){
